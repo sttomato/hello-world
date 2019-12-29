@@ -8,3 +8,4 @@
 ## 5. 增强学习 (RL)
 ## 6. 检测类anchor-free方案
 ## 7. MVSNet
+## 8. others
